@@ -1,0 +1,13 @@
+float a := 3;
+bool b := true;
+a * 2 + 1
+a > 1
+b && true
+input float c;
+input bool d;
+c := a * 2 + 1;
+d := a > 1;
+d := b && true;
+output c;
+if c > a then output a; end if;
+while c > a do output c; end while;
