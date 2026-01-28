@@ -1,0 +1,28 @@
+float a;
+float b;
+a := 4;
+b := 5;
+float c;
+c := a + b;
+bool d;
+bool e;
+d := false;
+e := true;
+
+for(int i = 0; i<=2; i++){
+output a;
+output b;}
+endfor
+
+if( a <= b)
+then
+{ 
+output a;
+output a;
+output a;
+}
+else
+{ output b;
+output b;
+output b;}
+endif
